@@ -3,7 +3,7 @@
 ## Project VAXRATE-
 Two interactive dashboards showing global vaccination progress and COVID-19’s second-order impact on underreported communities, for achieving herd immunity and international health policymaking.
 
-## Vizathon 2021 [Public Healt Track](https://docs.google.com/document/d/1coUJ-ALe45tMzrAWdyLwYQev49u-m-e1w3vjDewdaZo/edit#):
+## Vizathon 2021 [Public Health Track](https://docs.google.com/document/d/1coUJ-ALe45tMzrAWdyLwYQev49u-m-e1w3vjDewdaZo/edit#):
 With the adverse effects of COVID-19 still lingering in several countries, analyzing public health has never been more crucial. This track will focus on crunching and visualizing data from hospitals, medical organizations and the public health community, with the aim of inferring or predicting meaningful results either quantitatively, qualitatively or visually. Some examples can include studying patient data (in keeping with confidentiality terms), morbidity and mortality rates, public health infrastructure versus COVID-19 response, vaccination rates, non-COVID related public health analysis, etc. 
 
 ## Tech-Stack Used:
