@@ -1,4 +1,4 @@
-# ![Image](https://github.com/frason88/Project--VAXRATE-/blob/0881553cbb81a6cd69edb993e9a60e9827116637/images/Team-Logo.JPG?raw=true)
+# ![Image](https://github.com/frason88/Project--VAXRATE-/blob/main/images/team_logo.png?raw=true)
 
 ## Project VAXRATE-
 Two interactive dashboards showing global vaccination progress and COVID-19’s second-order impact on underreported communities, for achieving herd immunity and international health policymaking.
